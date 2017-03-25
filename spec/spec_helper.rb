@@ -1,5 +1,5 @@
-# Test Comments 1
-RSpec.configure do |config|
+# Test Comments 2  
+R2Spec.configure do |config|
   config.expect_with :rspec do |expectations|
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
   end
